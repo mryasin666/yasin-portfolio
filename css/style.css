@@ -143,7 +143,7 @@ nav {
         rgba(0, 21, 37, 0.65)
          ),
 
-        url("/images/S2v-bg.png");
+        url("../images/S2v-bg.png");
 
     background-position: center;
     background-size: cover;
